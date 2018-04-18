@@ -4,6 +4,7 @@ Meetings are announced
 on the [meetup page](https://www.meetup.com/de-DE/Scala-Hamburg/). Attendees need to
 RSVP there.
 
+Please also follow https://twitter.com/ScalaHamburg to get latest infos and announcements.
 
 
 Proposals
